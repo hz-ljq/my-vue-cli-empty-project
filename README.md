@@ -9,7 +9,7 @@
 project-name：就是你的项目名称。
 
 ---------------------------------
-# empty-project
+# my-vue-cli-empty-project
 
 > A Vue.js project
 
