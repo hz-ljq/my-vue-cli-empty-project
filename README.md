@@ -1,5 +1,7 @@
 
 ## 步骤：
+参考：https://www.jianshu.com/p/2769efeaa10a
+
 ###### 1.使用npm全局安装vue-cli（前提是你已经安装了nodejs，否则你连npm都用不了），在cmd中输入：
 > npm install --global vue-cli
 
